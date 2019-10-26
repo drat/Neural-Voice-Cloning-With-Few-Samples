@@ -47,3 +47,11 @@ Ini akan memakan waktu rata-rata 10 hingga 20 menit.
 
 
 Sejauh ini beberapa suara kerucut yang kami dapatkan menggunakan adaptasi speaker [LINK] (http://saidl.in/Neural-Voice-Cloning-With-Few-Samples/)
+
+# Implementasi Pada Bahasa Indonesia
+Warung Data Indonesia sedang melakukan riset dengan 500 speakers dalam pengembangan dataset dan menyiapkan server-server GPU dengan kemampuan komputasi yang besar untuk melakukan proses training dataset tersebut.
+
+Selanjutnya model yang dihasilkan akan dipublikasikan secara publik dan open source.
+
+Silahkan tunggu kabar updatenya dari [Warung Data Indonesia](https://www.warungdata.com)
+
